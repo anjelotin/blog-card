@@ -11,7 +11,7 @@ My responsive blog preview card built with HTML and CSS — part of a Frontend M
 - Google Fonts [Figtree] (https://fonts.google.com/specimen/Figtree)
 
 ## Screenshot
-![Blog Preview Card Screenshot] (/blog-card/blog-card/assets/images/aa-blog-preview-img)
+![Blog Preview Card Screenshot] (/blog-card/assets/images/aa-blog-preview-img.png)
 
 ## What I learned
 
